@@ -1,0 +1,267 @@
+<?xml version="1.0" ?>
+<resource>
+  <imageatlas file="crop.png" size="128x128">
+    <image id="img" offset="0,0" />
+  </imageatlas>
+  <tileset>
+    <tile id="img_tile"><image ref="img" /></tile>
+  </tileset>
+
+  <rectmap id="testmap" origin="0,0,0" tile_size="128x128">
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+    <column>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+      <cell tile="img_tile"/>
+    </column>
+  </rectmap>
+</resource>

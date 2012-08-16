@@ -1,0 +1,7 @@
+ROWS = 20
+COLUMNS = 10
+SQUARE_SIZE = 29
+MUSIC = True
+SOUND = True
+HISCORE_FILENAME = 'hi_scores.txt'
+

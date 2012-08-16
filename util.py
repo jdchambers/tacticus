@@ -1,0 +1,3 @@
+
+# Constants
+PLAYER = 1

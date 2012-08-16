@@ -1,0 +1,261 @@
+<?xml version="1.0" ?>
+<resource>
+  <requires file="test_tile.xml"/>
+  <rectmap id="testmap" origin="0,0,0" tile_size="128x128">
+    <column>
+      <cell tile="t-1"/>
+      <cell tile="t-2"/>
+      <cell tile="t-3"/>
+      <cell tile="t-4"/>
+      <cell tile="t-5"/>
+      <cell tile="t-6"/>
+      <cell tile="t-7"/>
+      <cell tile="t-8"/>
+      <cell tile="t-9"/>
+      <cell tile="t-10"/>
+      <cell tile="t-11"/>
+      <cell tile="t-12"/>
+      <cell tile="t-13"/>
+      <cell tile="t-14"/>
+      <cell tile="t-15"/>
+    </column>
+    <column>
+      <cell tile="t-16"/>
+      <cell tile="t-17"/>
+      <cell tile="t-18"/>
+      <cell tile="t-19"/>
+      <cell tile="t-20"/>
+      <cell tile="t-21"/>
+      <cell tile="t-22"/>
+      <cell tile="t-23"/>
+      <cell tile="t-24"/>
+      <cell tile="t-25"/>
+      <cell tile="t-26"/>
+      <cell tile="t-27"/>
+      <cell tile="t-28"/>
+      <cell tile="t-29"/>
+      <cell tile="t-30"/>
+    </column>
+    <column>
+      <cell tile="t-31"/>
+      <cell tile="t-32"/>
+      <cell tile="t-33"/>
+      <cell tile="t-34"/>
+      <cell tile="t-35"/>
+      <cell tile="t-36"/>
+      <cell tile="t-37"/>
+      <cell tile="t-38"/>
+      <cell tile="t-39"/>
+      <cell tile="t-40"/>
+      <cell tile="t-41"/>
+      <cell tile="t-42"/>
+      <cell tile="t-43"/>
+      <cell tile="t-44"/>
+      <cell tile="t-45"/>
+    </column>
+    <column>
+      <cell tile="t-46"/>
+      <cell tile="t-47"/>
+      <cell tile="t-48"/>
+      <cell tile="t-49"/>
+      <cell tile="t-50"/>
+      <cell tile="t-51"/>
+      <cell tile="t-52"/>
+      <cell tile="t-53"/>
+      <cell tile="t-54"/>
+      <cell tile="t-55"/>
+      <cell tile="t-56"/>
+      <cell tile="t-57"/>
+      <cell tile="t-58"/>
+      <cell tile="t-59"/>
+      <cell tile="t-60"/>
+    </column>
+    <column>
+      <cell tile="t-61"/>
+      <cell tile="t-62"/>
+      <cell tile="t-63"/>
+      <cell tile="t-64"/>
+      <cell tile="t-65"/>
+      <cell tile="t-66"/>
+      <cell tile="t-67"/>
+      <cell tile="t-68"/>
+      <cell tile="t-69"/>
+      <cell tile="t-70"/>
+      <cell tile="t-71"/>
+      <cell tile="t-72"/>
+      <cell tile="t-73"/>
+      <cell tile="t-74"/>
+      <cell tile="t-75"/>
+    </column>
+    <column>
+      <cell tile="t-76"/>
+      <cell tile="t-77"/>
+      <cell tile="t-78"/>
+      <cell tile="t-79"/>
+      <cell tile="t-80"/>
+      <cell tile="t-81"/>
+      <cell tile="t-82"/>
+      <cell tile="t-83"/>
+      <cell tile="t-84"/>
+      <cell tile="t-85"/>
+      <cell tile="t-86"/>
+      <cell tile="t-87"/>
+      <cell tile="t-88"/>
+      <cell tile="t-89"/>
+      <cell tile="t-90"/>
+    </column>
+    <column>
+      <cell tile="t-91"/>
+      <cell tile="t-92"/>
+      <cell tile="t-93"/>
+      <cell tile="t-94"/>
+      <cell tile="t-95"/>
+      <cell tile="t-96"/>
+      <cell tile="t-97"/>
+      <cell tile="t-98"/>
+      <cell tile="t-99"/>
+      <cell tile="t-100"/>
+      <cell tile="t-101"/>
+      <cell tile="t-102"/>
+      <cell tile="t-103"/>
+      <cell tile="t-104"/>
+      <cell tile="t-105"/>
+    </column>
+    <column>
+      <cell tile="t-106"/>
+      <cell tile="t-107"/>
+      <cell tile="t-108"/>
+      <cell tile="t-109"/>
+      <cell tile="t-110"/>
+      <cell tile="t-111"/>
+      <cell tile="t-112"/>
+      <cell tile="t-113"/>
+      <cell tile="t-114"/>
+      <cell tile="t-115"/>
+      <cell tile="t-116"/>
+      <cell tile="t-117"/>
+      <cell tile="t-118"/>
+      <cell tile="t-119"/>
+      <cell tile="t-120"/>
+    </column>
+    <column>
+      <cell tile="t-121"/>
+      <cell tile="t-122"/>
+      <cell tile="t-123"/>
+      <cell tile="t-124"/>
+      <cell tile="t-125"/>
+      <cell tile="t-126"/>
+      <cell tile="t-127"/>
+      <cell tile="t-128"/>
+      <cell tile="t-129"/>
+      <cell tile="t-130"/>
+      <cell tile="t-131"/>
+      <cell tile="t-132"/>
+      <cell tile="t-133"/>
+      <cell tile="t-134"/>
+      <cell tile="t-135"/>
+    </column>
+    <column>
+      <cell tile="t-136"/>
+      <cell tile="t-137"/>
+      <cell tile="t-138"/>
+      <cell tile="t-139"/>
+      <cell tile="t-140"/>
+      <cell tile="t-141"/>
+      <cell tile="t-142"/>
+      <cell tile="t-143"/>
+      <cell tile="t-144"/>
+      <cell tile="t-145"/>
+      <cell tile="t-146"/>
+      <cell tile="t-147"/>
+      <cell tile="t-148"/>
+      <cell tile="t-149"/>
+      <cell tile="t-150"/>
+    </column>
+    <column>
+      <cell tile="t-151"/>
+      <cell tile="t-152"/>
+      <cell tile="t-153"/>
+      <cell tile="t-154"/>
+      <cell tile="t-155"/>
+      <cell tile="t-156"/>
+      <cell tile="t-157"/>
+      <cell tile="t-158"/>
+      <cell tile="t-159"/>
+      <cell tile="t-160"/>
+      <cell tile="t-161"/>
+      <cell tile="t-162"/>
+      <cell tile="t-163"/>
+      <cell tile="t-164"/>
+      <cell tile="t-165"/>
+    </column>
+    <column>
+      <cell tile="t-166"/>
+      <cell tile="t-167"/>
+      <cell tile="t-168"/>
+      <cell tile="t-169"/>
+      <cell tile="t-170"/>
+      <cell tile="t-171"/>
+      <cell tile="t-172"/>
+      <cell tile="t-173"/>
+      <cell tile="t-174"/>
+      <cell tile="t-175"/>
+      <cell tile="t-176"/>
+      <cell tile="t-177"/>
+      <cell tile="t-178"/>
+      <cell tile="t-179"/>
+      <cell tile="t-180"/>
+    </column>
+    <column>
+      <cell tile="t-181"/>
+      <cell tile="t-182"/>
+      <cell tile="t-183"/>
+      <cell tile="t-184"/>
+      <cell tile="t-185"/>
+      <cell tile="t-186"/>
+      <cell tile="t-187"/>
+      <cell tile="t-188"/>
+      <cell tile="t-189"/>
+      <cell tile="t-190"/>
+      <cell tile="t-191"/>
+      <cell tile="t-192"/>
+      <cell tile="t-193"/>
+      <cell tile="t-194"/>
+      <cell tile="t-195"/>
+    </column>
+    <column>
+      <cell tile="t-196"/>
+      <cell tile="t-197"/>
+      <cell tile="t-198"/>
+      <cell tile="t-199"/>
+      <cell tile="t-200"/>
+      <cell tile="t-201"/>
+      <cell tile="t-202"/>
+      <cell tile="t-203"/>
+      <cell tile="t-204"/>
+      <cell tile="t-205"/>
+      <cell tile="t-206"/>
+      <cell tile="t-207"/>
+      <cell tile="t-208"/>
+      <cell tile="t-209"/>
+      <cell tile="t-210"/>
+    </column>
+    <column>
+      <cell tile="t-211"/>
+      <cell tile="t-212"/>
+      <cell tile="t-213"/>
+      <cell tile="t-214"/>
+      <cell tile="t-215"/>
+      <cell tile="t-216"/>
+      <cell tile="t-217"/>
+      <cell tile="t-218"/>
+      <cell tile="t-219"/>
+      <cell tile="t-220"/>
+      <cell tile="t-221"/>
+      <cell tile="t-222"/>
+      <cell tile="t-223"/>
+      <cell tile="t-224"/>
+      <cell tile="t-225"/>
+    </column>
+  </rectmap>
+</resource>
